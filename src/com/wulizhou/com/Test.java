@@ -1,6 +1,6 @@
-package www.wulizhou.com;
+package com.wulizhou.com;
 
-import www.wulizhou.com.sort.Sort;
+import com.wulizhou.sort.Sort;
 
 public class Test {
 

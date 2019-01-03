@@ -1,4 +1,4 @@
-package www.wulizhou.com.sort;
+package com.wulizhou.sort;
 
 public class Sort {
 
