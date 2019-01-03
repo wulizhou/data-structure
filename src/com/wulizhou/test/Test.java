@@ -1,4 +1,4 @@
-package com.wulizhou.com;
+package com.wulizhou.test;
 
 import com.wulizhou.sort.Sort;
 
